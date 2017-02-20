@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FileManager</string>
+    <string name="no_permission">没有权限</string>
+</resources>
